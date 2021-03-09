@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Developer, Lawyer and a Linguist!
 
-- 🔭 I’m currently working on the bootcamp's projects.
+- 🔭 I’m currently working on Next.js and React.js projects.
 - 🌱 I’m currently learning advanced SQL & Typescript.
 - 👯 I’m looking to collaborate with Open Source projects.
 
