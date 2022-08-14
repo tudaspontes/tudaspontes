@@ -1,10 +1,7 @@
 ### Hi there, I'm Felipe 👋
 
-## I'm a Husband, Developer, Lawyer and a Linguist!
-
 - 🔭 I’m currently working on Next.js and React.js projects.
-- 🌱 I’m currently learning advanced SQL & Typescript.
-- 👯 I’m looking to collaborate with Open Source projects.
+- 👯 Looking forward to collaborate with Open Source projects.
 
 ### Connect with me:
 
